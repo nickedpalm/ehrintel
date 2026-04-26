@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "stoltenberg-consulting-inc-pittsburgh",
+    "name": "Stoltenberg Consulting, Inc.",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "address": "",
+    "lat": 40.4406,
+    "lng": -79.9959,
+    "phone": "412-854-5688",
+    "website": "https://www.stoltenberg.com",
+    "email": "stoltenberg@stoltenberg.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "EHR implementation consultants offering best practice project methodologies for financial, clinical, ancillary, and ambulatory systems.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "HIT support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:46",
+    "sentiment": null
+  }
+]

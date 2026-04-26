@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "district-of-columbia-primary-care-association-washington-dc",
+    "name": "District of Columbia Primary Care Association",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "1776696828",
+    "website": "https://www.e-healthdc.org/about/",
+    "email": "contact@e-healthdc.org",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nonprofit organization focused on improving access to primary care, with experts in EHR implementation, workflow, interoperability, hosting, maintaining EHR solutions, and HIE connectivity for Medicaid providers.[2]",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "workflow optimization",
+      "interoperability",
+      "telehealth",
+      "HIE connectivity"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:54",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.78,
+      "keywords": [
+        "free assistance",
+        "technical support",
+        "healthcare providers",
+        "EHR adoption",
+        "telehealth support",
+        "Medicaid providers"
+      ],
+      "highlights": [
+        {
+          "text": "provided free technical assistance to support eligible Medicaid providers in adopting EHR systems",
+          "sentiment": "positive"
+        },
+        {
+          "text": "laptops with data plans and HIPAA-compliant telehealth licenses provided free of charge",
+          "sentiment": "positive"
+        },
+        {
+          "text": "helped 1,000 eligible primary care providers adopt EHR systems and meet requirements",
+          "sentiment": "positive"
+        },
+        {
+          "text": "convened diverse stakeholders to provide input for health IT and HIE roadmap",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Organization demonstrates consistent commitment to supporting healthcare providers through multiple free technical assistance programs, emergency pandemic support, and collaborative health IT initiatives."
+    }
+  },
+  {
+    "slug": "health-management-associates-washington-dc",
+    "name": "Health Management Associates",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "",
+    "website": "https://www.healthmanagement.com/about/locations/washington-dc/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare consultants in Washington, DC specializing in publicly funded healthcare, with expertise applicable to EHR-related challenges in the area.[8]",
+    "certifications": [],
+    "services": [
+      "publicly funded healthcare consulting",
+      "local healthcare challenges"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:54",
+    "sentiment": null
+  },
+  {
+    "slug": "legal-e-inc-washington-dc",
+    "name": "Legal E, Inc.",
+    "city": "Washington",
+    "state": "DC",
+    "address": "1001 Connecticut Ave NW, Washington, DC 20036",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "+1.202.319.1500",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "HR consulting firm in Washington, DC; potential overlap with healthcare staffing or consulting needs related to EHR implementation.[4]",
+    "certifications": [],
+    "services": [
+      "HR consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:54",
+    "sentiment": null
+  },
+  {
+    "slug": "stonehill-innovation-washington-dc",
+    "name": "Stonehill Innovation",
+    "city": "Washington",
+    "state": "DC",
+    "address": "",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "phone": "1763573512",
+    "website": "https://www.stonehillinnovation.com/best-healthcare-consulting-firm-washington-dc",
+    "email": "info@stonehillinnovation.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare consulting firm supporting organizations in Washington, DC with EHR optimization, digital health initiatives, data and analytics programs, and system implementations.[5]",
+    "certifications": [],
+    "services": [
+      "EHR optimization",
+      "digital health",
+      "data and analytics",
+      "system implementations"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:54",
+    "sentiment": null
+  }
+]

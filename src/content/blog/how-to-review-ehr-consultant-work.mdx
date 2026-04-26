@@ -1,0 +1,147 @@
+---
+title: "How to Review an EHR Consultant's Work (Quality Checklist)"
+description: "Checking for relevant skills before responding. 65% of practices hit workflow chaos after EHR implementation. Use this quality checklist to review your EHR…"
+pubDate: 2026-04-26
+author: "Nick Palmer"
+tags: ["EHR consultant", "quality", "checklist"]
+hub: "The Complete Guide to EHR Consultants"
+---
+
+My first EHR consultant engagement ended with a $47,000 implementation that nobody actually used. The workflows looked great on the slide deck. The compliance documentation was immaculate. The consultant signed off, cashed the check, and three months later our billing team was still doing manual data entry because the system never actually fit how we worked. We had no checklist. We had no acceptance criteria. We had a handshake and good vibes.
+
+Never again.
+
+> **The Short Version:** Most practices accept EHR consultant work on faith — and pay for it later in rejected claims, workflow chaos, and compliance gaps. A structured quality review before you sign off takes two hours and can save you months of headaches. Run every deliverable through this checklist.
+
+## Key Takeaways
+
+- HHS-OIG mandates **annual EHR record reviews** by billing and clinical staff — your consultant's work needs to hold up to that standard from day one
+- 65% of practices report workflow bottlenecks after EHR implementation, almost always because nobody mapped the workflows *before* go-live
+- MIPS non-compliance can trigger up to a **9% Medicare payment reduction** in 2026 — a gap your consultant may have left open
+- Structured stakeholder demos reduce EHR selection errors by **50%** — if your consultant skipped this step, that's a red flag worth revisiting
+
+---
+
+## The Part Nobody Talks About
+
+EHR consulting is a credentialed field (look for CPHIMS, CHDA, or RHIA after someone's name), but the output is almost entirely unverifiable unless you know what to check. A consultant can hand you a 60-page workflow analysis, a vendor recommendation memo, and a compliance attestation — and all three can be technically correct while being practically useless for your specific practice.
+
+The industry incentivizes deliverables, not outcomes. Your job is to bridge that gap.
+
+Here's what a serious quality review actually looks at.
+
+---
+
+## The Checklist
+
+### 1. Compliance Layer
+
+This is the non-negotiable floor. If your consultant's work doesn't support these standards, nothing else matters.
+
+| Element | What to Verify | Red Flags |
+|---|---|---|
+| HIPAA alignment | Access logs, audit trail configuration, BAA documentation | No documented access controls |
+| ONC certification | Vendor is on ONC's certified HIT list | Consultant recommends uncertified system |
+| MIPS/MACRA support | System exports QRDA/XML for CMS reporting | Manual extraction required for quality reporting |
+| HL7/FHIR interoperability | Data exchange tested with at least one external system | Proprietary-only data formats |
+| USCDI/TEFCA readiness | Patient data fields map to USCDI v3 data classes | Missing structured data fields |
+
+HL7/FHIR interoperability is now in **92% of ONC-certified EHRs** — if your consultant recommended something outside that mainstream, you need a very good reason why.
+
+> **Reality Check:** MIPS/MACRA compliance tools add $5,000–$15,000 annually to EHR licensing for mid-sized practices. If your consultant's recommendation didn't account for that in the total cost of ownership, the budget analysis is incomplete. Request a revised cost model.
+
+---
+
+### 2. Documentation Quality
+
+This is where consultants cut corners most often — and where it costs you most in billing denials.
+
+Check that the deliverable includes:
+
+- [ ] Custom template configuration for your specialty (not the default generic templates)
+- [ ] Single-screen history review capability documented and tested
+- [ ] E-signature workflow mapped end-to-end
+- [ ] AI note-taking integration assessed (if applicable to your practice type)
+- [ ] Progress note structure aligned with payer documentation requirements
+
+If the consultant handed you out-of-the-box templates and called it done, that's rework territory.
+
+---
+
+### 3. Workflow Mapping
+
+I'll be honest — this is the one that burns practices the most, and it's almost always because nobody pushed back during the engagement.
+
+**65% of practices report workflow bottlenecks post-implementation** when workflows weren't remapped before go-live. Your consultant's workflow deliverable should include:
+
+- [ ] Current-state workflow documented (what you do *now*, not what the EHR assumes you do)
+- [ ] Future-state workflow documented with specific EHR touchpoints
+- [ ] Gap analysis between current and future state
+- [ ] Staff PC skills assessment (yes, this is real — low digital literacy is a documented implementation killer)
+- [ ] Mobile access tested against actual clinical workflows, not just sales demo scenarios
+
+> **Pro Tip:** Ask your consultant to walk you through one complete patient encounter — from scheduling through billing — in the proposed system. If they can't do it fluently, the workflow mapping isn't done.
+
+---
+
+### 4. Reporting and Analytics
+
+Rejected claims are expensive. Missed quality reporting is more expensive. Your consultant should have configured your reporting infrastructure, not just pointed you to the vendor's canned dashboards.
+
+- [ ] Automated dashboards configured for your specific payer mix
+- [ ] CMS reporting templates tested (not just confirmed as "available")
+- [ ] QRDA/XML export verified against a sample dataset
+- [ ] Benchmark targets documented for post-go-live comparison
+- [ ] Monthly/quarterly review schedule established
+
+CMS-OIG risk-based audits have identified fraud indicators in **15% of sampled EHRs** — the audit trail your consultant configured is your first line of defense.
+
+---
+
+### 5. Vendor Evaluation Process (If Applicable)
+
+If your consultant led a vendor selection engagement, this section applies. If they inherited a vendor decision, skip it.
+
+- [ ] Minimum two vendors evaluated against documented criteria
+- [ ] Weighted scorecard used (usability, cost, support, compliance — typical weights: 30/20/25/25)
+- [ ] Stakeholder demo conducted with actual end-users (not just administrators)
+- [ ] Free trial or pilot period negotiated (available from 70% of vendors)
+- [ ] Customer references checked, including at least one practice of similar size and specialty
+
+Stakeholder demos reduce selection errors by 50%. If your consultant ran the demo solo and presented a recommendation, that's a process gap.
+
+---
+
+## When to Request Rework
+
+Not everything that's incomplete requires starting over. Use this threshold:
+
+**Request rework when:**
+- Any compliance element is missing or untested
+- Workflow documentation describes the EHR's defaults instead of your practice's actual processes
+- Reporting is configured but not verified against real data
+- Vendor selection lacked stakeholder input
+
+**Accept with conditions when:**
+- Minor template gaps that can be addressed in staff training
+- Benchmark targets missing but methodology is sound (you can set these yourself)
+- Vendor demo was abbreviated but decision rationale is well-documented
+
+**Accept as-is when:**
+- All five layers check out, users have been trained, and go-live criteria are defined
+
+Nobody tells you this, but "consultant sign-off" and "practice sign-off" are two different things. You're allowed to gate final payment on a completed checklist review.
+
+---
+
+## Practical Bottom Line
+
+Pull up this checklist before your consultant submits their final deliverable — not after. Walk through it in a 90-minute working session with whoever owns billing, whoever owns clinical operations, and the consultant in the room. Every unchecked box is a conversation, not a crisis.
+
+**Your three next steps:**
+
+1. **Run the compliance layer first.** If MIPS/MACRA support or FHIR interoperability isn't verified, stop there and get it documented before anything else.
+2. **Do the workflow walkthrough.** Book 45 minutes to trace one complete patient encounter through the configured system. What you find will tell you more than any written deliverable.
+3. **Set your post-go-live review schedule.** HHS-OIG guidelines call for annual reviews at minimum — build quarterly check-ins into your contract before you sign off.
+
+For a deeper look at how to structure the full consultant relationship from selection through optimization, start with [The Complete Guide to EHR Consultants](/blog/complete-guide-EHR-consultants/). If you're still in the selection phase, the vendor evaluation framework in that guide will help you ask better questions before the engagement even starts.

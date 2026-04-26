@@ -1,0 +1,125 @@
+[
+  {
+    "slug": "linkehr-milwaukee",
+    "name": "LinkEHR",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "EHR-focused managed services firm specializing in Tier 1, 2, and 3 application support for health systems, including Epic Help Desk, break-fix, maintenance, physician concierge support, optimization, and outsourced build services.",
+    "certifications": [],
+    "services": [
+      "Epic application support",
+      "Help desk services",
+      "EHR optimization",
+      "Physician concierge"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:04:44",
+    "sentiment": null
+  },
+  {
+    "slug": "sift-ehr-consulting-milwaukee",
+    "name": "Sift EHR Consulting",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Privately-held company operating in the health care providers industry, providing EHR consulting services. Founded in 2017.",
+    "certifications": [],
+    "services": [
+      "EHR consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:04:44",
+    "sentiment": null
+  },
+  {
+    "slug": "the-joxel-group-llc-milwaukee",
+    "name": "The Joxel Group, LLC",
+    "city": "Milwaukee",
+    "state": "WI",
+    "address": "",
+    "lat": 43.0389,
+    "lng": -87.9065,
+    "phone": "262 242 1823",
+    "website": "https://thejoxelgroup.com",
+    "email": "info@thejoxelgroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare consulting firm offering expert assistance throughout every phase of the EHR lifecycle, including implementations, selection, optimization, and project management.",
+    "certifications": [],
+    "services": [
+      "EHR implementations",
+      "EHR selection",
+      "EHR optimization",
+      "Project management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:04:44",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "expert consulting",
+        "mentoring",
+        "problem-solving",
+        "reliable partnership",
+        "technical expertise",
+        "customer-focused"
+      ],
+      "highlights": [
+        {
+          "text": "Working with Joxel for over a decade has been a pleasure. Consistently high-quality, timely work.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They not only fix problems but also teach and mentor our administrators, enhancing internal capacity.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their biggest asset is the ability to be nimble and execute to a high-quality standard.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Joxel listens to the needs of the agency and staff and delivers an end product that reflects that.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Universally positive reputation with clients praising Joxel as a strategic, knowledgeable IT consulting partner delivering high-quality implementations, mentoring, and problem-solving across EHR systems."
+    }
+  }
+]

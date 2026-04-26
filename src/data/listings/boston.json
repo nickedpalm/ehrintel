@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "rldatix-data-solutions-group-boston",
+    "name": "RLDatix Data Solutions Group",
+    "city": "Boston",
+    "state": "MA",
+    "address": "",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "EHR services firm specializing in data migration, implementation support, legacy system data migration, and EHR implementation.",
+    "certifications": [],
+    "services": [
+      "EHR implementation and support",
+      "Legacy system data migration",
+      "Data migration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:12",
+    "sentiment": null
+  }
+]

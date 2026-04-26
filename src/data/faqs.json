@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How much does an EHR consultant cost?",
+    "answer": "EHR consulting fees typically run $150\u2013$300 per hour for hourly engagements, or $50,000\u2013$200,000+ for fixed-price implementation projects. Costs vary significantly by system complexity, practice size, and the EHR platform involved. Budget separately for vendor add-ons, customization, and ongoing support \u2014 these are often not included in initial quotes and can add 20\u201340% to total project cost."
+  },
+  {
+    "question": "What does EHR implementation consulting typically include?",
+    "answer": "Most engagements cover needs assessment, system configuration and customization, staff training, go-live support, and a post-implementation optimization period. A full implementation for a mid-size medical group typically spans 3\u20136 months. Training and optimization are sometimes billed separately, so confirm scope in writing before signing."
+  },
+  {
+    "question": "Are there hidden costs in EHR consulting projects?",
+    "answer": "Common unexpected costs include data migration from legacy systems, interface builds for practice management or lab systems, extended training for resistant staff, and vendor-side licensing fees for add-on modules. Scope creep \u2014 where requirements expand mid-project \u2014 is a frequent budget risk. Fixed-fee contracts help but require a detailed scope of work upfront."
+  },
+  {
+    "question": "What EHR systems do consultants typically specialize in?",
+    "answer": "Most experienced consultants focus on one or two major platforms \u2014 commonly Epic, Oracle Cerner, athenahealth, or Allscripts. Specialty-specific experience (primary care, psychiatry, oncology) matters as much as platform knowledge, since workflow templates and reporting configurations differ substantially by specialty. Always ask consultants to describe work done in your specific specialty, not just the platform."
+  },
+  {
+    "question": "How do I verify an EHR consultant's credentials and track record?",
+    "answer": "Ask for 3\u20135 references from practices similar in size and specialty, with go-lives completed within the past 1\u20133 years. Reputable consultants can provide anonymized case studies or connect you directly with past clients. Vendor certifications (Epic-certified, Cerner-credentialed) are a baseline signal but don't substitute for specialty-matched reference checks."
+  },
+  {
+    "question": "How do EHR consultants handle HIPAA and MIPS/MACRA compliance during setup?",
+    "answer": "Compliance-focused consultants audit your system configuration against ONC certification requirements, configure MIPS quality and promoting interoperability measures, and conduct staff training on data handling. Verify that the consultant has direct experience with your reporting year requirements \u2014 MIPS rules change annually, and outdated configurations can result in 5\u20139% payment penalties."
+  },
+  {
+    "question": "How long does an EHR implementation take for a medical group?",
+    "answer": "A typical implementation runs 3\u20136 months from kickoff to go-live, broken into assessment (2\u20134 weeks), configuration (4\u20138 weeks), training (2 weeks), and go-live stabilization. Larger multi-site groups or complex integrations can extend to 12 months. Practices with hard MIPS or payer contract deadlines should build in buffer time \u2014 delays during go-live are common even in well-managed projects."
+  },
+  {
+    "question": "How do EHR consultants handle staff training and user adoption?",
+    "answer": "Effective consultants use role-based training modules, designate internal super-users, and provide 30\u201390 days of post-go-live support. Well-managed rollouts typically reach 80\u201390% staff adoption within 60 days. Practices with high staff turnover or mixed technical comfort should negotiate extended support periods rather than assuming a one-time training is sufficient."
+  },
+  {
+    "question": "Can an EHR consultant integrate our new system with existing practice management or hospital systems?",
+    "answer": "Yes, but interface builds are often a separate workstream and cost. Consultants map HL7 or FHIR APIs to connect EHRs with practice management systems, labs, imaging, and HIEs. Multi-site groups connecting to hospital EHRs like Epic or Cerner should confirm the consultant has direct experience with that specific integration \u2014 not all consultants have bidirectional ADT or results routing experience."
+  },
+  {
+    "question": "What are the biggest red flags when hiring an EHR consultant?",
+    "answer": "Watch for consultants who can't name specific references in your specialty, offer vague timelines, or resist putting scope and deliverables in writing. Scope creep, inadequate data migration planning, and no clear exit or transition clause are common failure patterns. A consultant who downplays training complexity or guarantees adoption rates without a defined plan is also a risk."
+  },
+  {
+    "question": "What support should I expect for MIPS reporting setup?",
+    "answer": "Consultants should configure performance dashboards, validate measure specifications against CMS requirements, and help benchmark your group against national performance thresholds. Look for consultants who have supported attestation for practices at your patient volume \u2014 reporting errors at higher thresholds carry steeper penalty exposure and require more than basic dashboard setup."
+  },
+  {
+    "question": "Do EHR consulting costs and availability vary by region?",
+    "answer": "Yes. Urban markets \u2014 particularly those with large Epic or Cerner footprints \u2014 have more credentialed consultants but at higher rates. Rural and smaller markets often see fewer specialists, longer travel costs, and heavier reliance on remote-only engagements. Cloud-based and telehealth-integrated systems tend to be more accessible in lower-density regions, and some consultants price accordingly."
+  }
+]

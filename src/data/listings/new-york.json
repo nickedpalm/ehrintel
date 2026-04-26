@@ -1,0 +1,174 @@
+[
+  {
+    "slug": "carecloud-charts-new-york",
+    "name": "CareCloud Charts",
+    "city": "New York",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "phone": "1-877-342-7517",
+    "website": "https://carecloud.com",
+    "email": "hello@carecloud.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Advanced EHR software trusted by 40,000+ healthcare providers. Offers data-driven electronic health records solutions for healthcare providers in New Jersey.",
+    "certifications": [],
+    "services": [
+      "EHR software",
+      "Healthcare provider solutions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:08",
+    "sentiment": null
+  },
+  {
+    "slug": "ero-health-new-york",
+    "name": "Ero Health",
+    "city": "New York",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "phone": "Not provided",
+    "website": "https://ero.health",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "EHR implementation and consulting services. Largest eClinicalWorks\u00ae solution partner in North America, providing adoption to optimization services for independent clinics, FQHCs, health systems, ACOs, MSOs, and healthcare organizations.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "EHR consulting",
+      "eClinicalWorks solutions",
+      "Digital transformation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:08",
+    "sentiment": null
+  },
+  {
+    "slug": "jersey-it-group-new-york",
+    "name": "Jersey IT Group",
+    "city": "New York",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "phone": "Not provided",
+    "website": "https://jerseyitgroup.com",
+    "email": "info@jerseyitgroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "HIPAA-compliant healthcare IT solutions in New Jersey with experience managing medical networks that rely on EHR and practice management systems.",
+    "certifications": [],
+    "services": [
+      "Healthcare IT solutions",
+      "EHR management",
+      "Practice management systems",
+      "HIPAA compliance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:08",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "IT management",
+        "cybersecurity",
+        "cost reduction",
+        "business continuity",
+        "cloud services",
+        "network security"
+      ],
+      "highlights": [
+        {
+          "text": "Minimize IT costs and hassles with proactive IT management and tailored solutions",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Ensure your systems and business information are well protected against all kinds of online attacks",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Get back to full operations ASAP with effective backup and recovery plans",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Boost workforce efficiency and minimize hardware costs by seamlessly moving your IT system to the cloud",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Uniformly positive marketing content describing comprehensive IT services with strong emphasis on security, efficiency, and cost savings rather than actual customer reviews or testimonials."
+    }
+  },
+  {
+    "slug": "qventive-healthcare-it-new-york",
+    "name": "Qventive Healthcare IT",
+    "city": "New York",
+    "state": "NJ",
+    "address": "Not provided",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "phone": "Not provided",
+    "website": "https://www.qventive.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare IT services managing healthcare networks, servers, and daily EHR/PM issues.",
+    "certifications": [],
+    "services": [
+      "EHR support",
+      "Practice management support",
+      "Network management",
+      "Server management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:08",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "EHR support",
+        "Practice management support",
+        "Network management",
+        "Server management"
+      ],
+      "highlights": [
+        {
+          "text": "Professional, courteous and quick to respond",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Healthcare IT services managing healthcare networks, servers, and daily EHR/PM issues."
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "mgsi-jacksonville",
+    "name": "MGSI",
+    "city": "Jacksonville",
+    "state": "FL",
+    "address": "",
+    "lat": 30.3322,
+    "lng": -81.6557,
+    "phone": "877-896-6474",
+    "website": "https://www.mgsionline.com/electronic-health-records-management.html",
+    "email": "info@mgsionline.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Electronic health records specialists providing EHR solutions across platforms to improve billing efficiency.",
+    "certifications": [],
+    "services": [
+      "EHR solutions",
+      "billing process optimization"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:29",
+    "sentiment": null
+  }
+]

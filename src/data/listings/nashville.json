@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "business-transformation-institute-inc-nashville",
+    "name": "Business Transformation Institute, Inc",
+    "city": "Nashville",
+    "state": "MD",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Compliance consulting firm providing business consulting, compliance, and market research services.",
+    "certifications": [],
+    "services": [
+      "business consulting",
+      "compliance consulting",
+      "market research"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:42",
+    "sentiment": null
+  },
+  {
+    "slug": "chc-consulting-group-nashville",
+    "name": "CHC Consulting Group",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "1773771796",
+    "website": "https://www.chcconsultinggroup.com",
+    "email": "contact@chcconsultinggroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "FQHC medical consulting firm providing revenue cycle management, billing support, strategic planning, operational efficiency, and quality improvement for Tennessee health centers.",
+    "certifications": [],
+    "services": [
+      "revenue cycle management",
+      "billing support",
+      "strategic planning"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:35",
+    "sentiment": null
+  },
+  {
+    "slug": "chc-tech-rx-nashville",
+    "name": "CHC Tech Rx",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "1773771796",
+    "website": "https://www.chcconsultinggroup.com",
+    "email": "contact@chcconsultinggroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "FQHC IT firm specializing in EHR implementation, data integration, cybersecurity, and IT infrastructure management for Federally Qualified Health Centers.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "data integration",
+      "cybersecurity"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:35",
+    "sentiment": null
+  },
+  {
+    "slug": "cerecore-nashville",
+    "name": "CereCore",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1627,
+    "lng": -86.7816,
+    "phone": "2090098269",
+    "website": "https://cerecore.net",
+    "email": "info@cerecore.net",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Healthcare IT services provider specializing in EHR implementation, staff augmentation, and clinical and technical support for hospitals.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "staff augmentation",
+      "clinical support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:35",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional team",
+        "excellent support",
+        "successful implementation",
+        "technical expertise",
+        "partnership",
+        "user satisfaction"
+      ],
+      "highlights": [
+        {
+          "text": "nearly flawless. Provider Education \u2013 excellent. Go-live support \u2013 could not have been any better.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We have complete confidence in our help desk to be able to serve our customers.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Wonderful talent there.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "it's been a good partnership.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "CereCore receives overwhelmingly positive reviews from healthcare IT leaders praising expert team professionalism, flawless implementations, exceptional support services, and strong collaborative partnerships."
+    }
+  }
+]

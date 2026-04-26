@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "tateeda-san-diego",
+    "name": "TATEEDA",
+    "city": "San Diego",
+    "state": "CA",
+    "address": "",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "phone": "2061865340",
+    "website": "https://tateeda.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "EHR and EMR software development company offering custom development, engineering, design, integration with billing engines, and dedicated teams for health-tech organizations.",
+    "certifications": [],
+    "services": [
+      "custom EHR/EMR development",
+      "software engineering",
+      "billing integration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.92,
+      "keywords": [
+        "reliable",
+        "on-time delivery",
+        "collaborative",
+        "cost-effective",
+        "professional",
+        "flexible",
+        "client-focused"
+      ],
+      "highlights": [
+        {
+          "text": "helped us get some key projects finished on time when our internal team was already at capacity",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Working with Tateeda Global has been a breath of fresh air for our team",
+          "sentiment": "positive"
+        },
+        {
+          "text": "took the time and effort to establish a relationship, understand the client needs, partner and collaborate",
+          "sentiment": "positive"
+        },
+        {
+          "text": "always had our best interest in mind and made sure we have a realistic expectation",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "TATEEDA receives consistently strong praise for reliable project management, collaborative partnerships, on-time delivery, and client-focused approach, with no negative feedback reported."
+    }
+  }
+]

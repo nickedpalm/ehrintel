@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "asani-ali-llc-miami",
+    "name": "Asani Ali LLC",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "phone": "1575015777",
+    "website": "https://asaniali.org/service/emr-consulting/",
+    "email": "Info@AsaniAli.Org",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "IT support company in South Florida offering EMR consulting with over 25 years of experience and proactive client approach.",
+    "certifications": [],
+    "services": [
+      "EMR consulting",
+      "IT support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:29",
+    "sentiment": null
+  },
+  {
+    "slug": "clindcast-miami",
+    "name": "Clindcast",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "phone": "1679688273",
+    "website": "https://www.clindcast.com",
+    "email": "connect@clindcast.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Healthcare IT consulting company offering EHR certified consultants for implementation, optimization, Epic consulting, and patient workflow streamlining.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "EHR optimization",
+      "Epic consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "expert guidance",
+        "exceptional service",
+        "measurable results",
+        "personalized solutions",
+        "trusted partner",
+        "communication skills"
+      ],
+      "highlights": [
+        {
+          "text": "game changer for our healthcare organization",
+          "sentiment": "positive"
+        },
+        {
+          "text": "exceeded our expectations with personalized solutions that delivered real results",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Trusted partner, look forward to working together for years",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Clindcast receives overwhelmingly positive reviews for expert guidance, measurable business outcomes, and trustworthy partnership in healthcare technology implementation."
+    }
+  },
+  {
+    "slug": "insight-technologies-miami",
+    "name": "Insight Technologies",
+    "city": "Miami",
+    "state": "FL",
+    "address": "",
+    "lat": 25.7617,
+    "lng": -80.1918,
+    "phone": "(786) 322-8212",
+    "website": "https://insighttechgroup.com/ehremr-overview/",
+    "email": "sales@insighttechgroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "EMR/EHR solutions provider working with major EHR vendors, offering evaluation, implementation, and support for practices.",
+    "certifications": [],
+    "services": [
+      "EHR evaluation",
+      "implementation",
+      "ongoing support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:29",
+    "sentiment": null
+  }
+]

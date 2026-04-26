@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "chc-consulting-group-new-orleans",
+    "name": "CHC Consulting Group",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "1773771796",
+    "website": "https://www.chcconsultinggroup.com",
+    "email": "contact@chcconsultinggroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FQHC consulting firm specializing in revenue cycle management, billing services, managed IT solutions, and EHR implementation for Louisiana health centers.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "data integration",
+      "cybersecurity",
+      "IT infrastructure management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:03",
+    "sentiment": null
+  },
+  {
+    "slug": "chc-tech-rx-new-orleans",
+    "name": "CHC Tech Rx",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading FQHC IT firm providing innovative technology solutions including EHR implementation and data integration for Federally Qualified Health Centers.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "data integration",
+      "cybersecurity"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:03",
+    "sentiment": null
+  },
+  {
+    "slug": "dynamic-health-it-new-orleans",
+    "name": "Dynamic Health IT",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "ONC-certified interoperability and quality measure solutions for healthcare providers, specializing in EHR integration services.",
+    "certifications": [],
+    "services": [
+      "EHR integration",
+      "interoperability solutions",
+      "quality measure solutions"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:03",
+    "sentiment": null
+  },
+  {
+    "slug": "physician-practice-specialists-new-orleans",
+    "name": "Physician Practice Specialists",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "1048332375",
+    "website": "https://physicianpracticespecialists.com",
+    "email": "sales@physicianpracticespecialists.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides insurance credentialing, provider enrollment, practice start-up services, and general practice consulting, which may include EHR-related support.",
+    "certifications": [],
+    "services": [
+      "insurance credentialing",
+      "practice start-up",
+      "general practice consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:03",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "responsive",
+        "professional",
+        "exceeds expectations",
+        "excellent service",
+        "customer service",
+        "partnership"
+      ],
+      "highlights": [
+        {
+          "text": "We pay way too little for the services and attention that we receive",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They consistently exceed our expectations",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We've been extremely happy since day one",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They just keep getting better",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Physician Practice Specialists has outstanding client satisfaction across multiple healthcare organizations, praised for responsiveness, professionalism, consistent value delivery, and continuous service improvement."
+    }
+  },
+  {
+    "slug": "vbs-no-new-orleans",
+    "name": "VBS-NO",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "phone": "(504) 840-9800",
+    "website": "https://vbs-no.com",
+    "email": "support@vbs-no.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "IT solutions for EMR/EHR in healthcare facilities, streamlining processes with digital medical records for improved collaboration and secure patient access.",
+    "certifications": [],
+    "services": [
+      "EMR/EHR IT solutions",
+      "digital medical records",
+      "secure access"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:03",
+    "sentiment": null
+  }
+]

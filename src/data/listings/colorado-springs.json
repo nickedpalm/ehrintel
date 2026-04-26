@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "colorado-computer-support-colorado-springs",
+    "name": "Colorado Computer Support",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "address": "",
+    "lat": 38.8339,
+    "lng": -104.8214,
+    "phone": "(719) 355-2440",
+    "website": "https://coloradosupport.com",
+    "email": "blake@coloradosupport.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premier support provider for Colorado healthcare organizations with EHR technology and Meaningful Use compliance.",
+    "certifications": [],
+    "services": [
+      "Meaningful Use consulting",
+      "EHR technology support",
+      "Compliance assistance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:56",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "available",
+        "polite",
+        "reliable",
+        "easy to work with",
+        "responsive",
+        "professional"
+      ],
+      "highlights": [
+        {
+          "text": "CCS is always available when I have IT issues. Very polite and easy to work with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I have worked with Austin the most who has been wonderful.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive reputation driven by reliability, professional demeanor, and quality individual technicians who are consistently available and easy to work with."
+    }
+  },
+  {
+    "slug": "sciotek-corporation-colorado-springs",
+    "name": "ScioTek Corporation",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "address": "",
+    "lat": 38.8339,
+    "lng": -104.8214,
+    "phone": "1957318960",
+    "website": "https://www.sciotek.com",
+    "email": "helpdesk@sciotek.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides enterprise-level EMR/EHR IT solutions and support for small and midsized healthcare practices in Colorado.",
+    "certifications": [],
+    "services": [
+      "EMR/EHR solutions",
+      "Medical IT support",
+      "Technology efficiency for practices"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:56",
+    "sentiment": null
+  }
+]

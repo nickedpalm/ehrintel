@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "cendien-dallas",
+    "name": "Cendien",
+    "city": "Dallas",
+    "state": "TX",
+    "address": "Not provided",
+    "lat": 32.7767,
+    "lng": -96.797,
+    "phone": "Not provided",
+    "website": "https://cendien.com/services/healthcare-it/ehr",
+    "email": "info@cendien.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "EHR implementation and optimization for Epic, Cerner, Meditech, and Allscripts platforms with HIPAA-compliant solutions",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "EHR optimization",
+      "Epic support",
+      "Cerner support",
+      "Meditech support",
+      "Allscripts support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:20",
+    "sentiment": null
+  },
+  {
+    "slug": "imagnum-healthcare-dallas",
+    "name": "Imagnum Healthcare",
+    "city": "Dallas",
+    "state": "TX",
+    "address": "Not provided",
+    "lat": 32.7767,
+    "lng": -96.797,
+    "phone": "Not provided",
+    "website": "https://www.imagnumhealthcare.com/places/ehr-support-in-duncanville-dallas-texas",
+    "email": "info@imagnumhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional EHR support services offering tailored solutions to streamline health record systems",
+    "certifications": [],
+    "services": [
+      "EHR support",
+      "Health record system optimization"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:20",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "dedication",
+        "speed",
+        "performance",
+        "commitment",
+        "technology",
+        "backlog-clearing"
+      ],
+      "highlights": [
+        {
+          "text": "stupendous job in clearing the backlog of work from the other vendor in such a short time",
+          "sentiment": "positive"
+        },
+        {
+          "text": "collected 40% from the claims that was sitting unpaid for more than 180 days in less than 4 months",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Love your commitment, speed, and technology",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Uniformly positive reviews praising Imagnum Healthcare's exceptional dedication, rapid performance in clearing backlogs, and strong technological implementation."
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "chc-consulting-group-las-vegas",
+    "name": "CHC Consulting Group",
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "phone": "1773771796",
+    "website": "https://www.chcconsultinggroup.com",
+    "email": "contact@chcconsultinggroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "FQHC consulting firm specializing in healthcare IT solutions including EHR implementation, data integration, cybersecurity, revenue cycle management, and billing services for Nevada health centers.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "data integration",
+      "cybersecurity",
+      "revenue cycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": null
+  },
+  {
+    "slug": "chc-tech-rx-las-vegas",
+    "name": "CHC Tech Rx",
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "phone": "1773771796",
+    "website": "https://www.chcconsultinggroup.com",
+    "email": "contact@chcconsultinggroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading FQHC IT firm providing innovative technology solutions tailored for Federally Qualified Health Centers in Nevada, including EHR implementation and IT infrastructure management.",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "cybersecurity",
+      "IT infrastructure management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": null
+  },
+  {
+    "slug": "imagnum-healthcare-las-vegas",
+    "name": "Imagnum Healthcare",
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "phone": "1346327250",
+    "website": "https://www.imagnumhealthcare.com",
+    "email": "info@imagnumhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides statewide EHR support services across Nevada to streamline electronic health record systems.",
+    "certifications": [],
+    "services": [
+      "EHR support",
+      "EHR optimization"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": null
+  },
+  {
+    "slug": "nevada-it-solutions-las-vegas",
+    "name": "Nevada IT Solutions",
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "phone": "1772634723",
+    "website": "https://nevadaitsolutions.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare IT consulting firm in Reno, NV, offering HIPAA compliance, secure systems, IT support, and maintenance for legacy systems including EHR for medical practices, hospitals, and clinics.",
+    "certifications": [],
+    "services": [
+      "HIPAA compliance",
+      "EHR support",
+      "healthcare IT consulting",
+      "legacy system maintenance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "professional",
+        "responsive",
+        "knowledgeable",
+        "trusted partner",
+        "efficient",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "I can't compliment this team enough.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "elated to call them a trusted partner",
+          "sentiment": "positive"
+        },
+        {
+          "text": "One of the most responsive teams we've ever worked with.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They know their IT stuff and HIPAA compliance.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Nevada IT Solutions receives overwhelmingly positive reviews across multiple industries, with customers consistently praising their professionalism, responsiveness, technical expertise, and reliability."
+    }
+  },
+  {
+    "slug": "tahoe-tech-group-las-vegas",
+    "name": "Tahoe Tech Group",
+    "city": "Las Vegas",
+    "state": "NV",
+    "address": "",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "phone": "(775) 831-1141",
+    "website": "https://tahoetechgroup.com",
+    "email": "DiscoveryCall@tahoetechgroup.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides HIPAA-compliant IT solutions for Nevada medical practices, including EHR support, cybersecurity, and reliable technology serving Reno and Lake Tahoe areas.",
+    "certifications": [],
+    "services": [
+      "EHR support",
+      "cybersecurity",
+      "HIPAA-compliant IT"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:12",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.97,
+      "keywords": [
+        "responsive",
+        "professional",
+        "patient",
+        "helpful",
+        "knowledgeable",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "I cannot ask for better service!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We're lucky to have them support our team.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "more tech firms should call them for advice!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "indispensable, knowledgeable, and reliable commodity to our community",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "All reviews are overwhelmingly positive, praising Tahoe Tech Group for rapid response, expert problem-solving, exceptional customer service, and 20+ years of trusted partnership."
+    }
+  }
+]

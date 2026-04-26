@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "emr-technical-solutions-llc-oklahoma-city",
+    "name": "EMR Technical Solutions, LLC",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "1772291208",
+    "website": "https://emrts.us",
+    "email": "ask@emrts.us",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Consulting agency providing EMR systems and MMIS expertise to healthcare providers since 2006.",
+    "certifications": [],
+    "services": [
+      "EMR systems",
+      "MMIS consulting",
+      "Medicaid management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:31",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "comprehensive",
+        "full-service",
+        "efficient",
+        "professional",
+        "lifecycle-coverage",
+        "MMIS-expertise"
+      ],
+      "highlights": [
+        {
+          "text": "assist our MMIS clients from planning, RFP or design, to development and build, through to launch",
+          "sentiment": "positive"
+        },
+        {
+          "text": "making all aspects of your project more efficient",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Self-authored professional description highlighting comprehensive end-to-end project management and efficiency for MMIS clients, though no actual customer feedback is present to validate claims."
+    }
+  },
+  {
+    "slug": "optimum-healthcare-it-oklahoma-city",
+    "name": "Optimum Healthcare IT",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "1777220558",
+    "website": "https://optimumhit.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Healthcare IT consulting firm specializing in Epic EHR implementation and staffing services.",
+    "certifications": [],
+    "services": [
+      "Epic EHR implementation",
+      "Healthcare staffing",
+      "IT consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:31",
+    "sentiment": null
+  },
+  {
+    "slug": "evero-oklahoma-city",
+    "name": "eVero",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "address": "",
+    "lat": 35.4676,
+    "lng": -97.5164,
+    "phone": "1775081354",
+    "website": "https://www.evero.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Delivers EHR, EVV, SDS, compliance, telehealth, and IT managed services for Oklahoma human services agencies.",
+    "certifications": [],
+    "services": [
+      "EHR software",
+      "EVV",
+      "SDS",
+      "Telehealth",
+      "IT managed services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:31",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "responsive support",
+        "user-friendly",
+        "compliance & regulations",
+        "efficiency",
+        "life-changing",
+        "reliable partner"
+      ],
+      "highlights": [
+        {
+          "text": "I can't imagine how we would navigate the COLA requirements without the tools that eVero has created",
+          "sentiment": "positive"
+        },
+        {
+          "text": "eVero has been truly life-changing for the people we support!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "eVero is AMAZINGGGGG! The staff is great, never a bad conversation or interaction",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I highly recommend eVero. I don't know what I would do without eVero",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "eVero receives overwhelmingly enthusiastic praise across all reviews, with customers consistently highlighting transformative software, exceptional customer support, regulatory compliance capabilities, and significant operational efficiency gains."
+    }
+  }
+]

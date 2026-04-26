@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "ehr-consultant-rate-guide-2026",
+    "title": "EHR Consultant Rate Guide 2026",
+    "subtitle": "Know market rates before hiring your EHR expert",
+    "description": "Medical groups budgeting EHR implementation projects need accurate consultant pricing to evaluate proposals and allocate resources. This guide breaks down 2026 market rates by credential level, geography, and project scope.",
+    "bullets": [
+      "CPHIMS-certified consultants: $180\u2013$325/hour vs. $120\u2013$200 uncertified",
+      "West Coast 35% premium; Midwest rates 15% below national average",
+      "4\u20138 week typical EHR selection engagement; 12\u201316 weeks for implementation",
+      "Fixed-project pricing: $45K\u2013$120K for midsize practice go-live support"
+    ],
+    "pdfUrl": "/guides/pdf/ehr-consultant-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "ehr-consultant-vetting-guide",
+    "title": "EHR Consultant Vetting Guide",
+    "subtitle": "Avoid costly EHR implementations by vetting the right consultant",
+    "description": "Before hiring an EHR consultant, medical groups must evaluate credentials, track record, and platform expertise. This guide explains what to look for\u2014including CPHIMS certification and implementation success markers\u2014to avoid costly project failures and ensure vendor alignment.",
+    "bullets": [
+      "Verify CPHIMS certification\u2014the credential standard in EHR consulting",
+      "Request proven implementation track records for your EHR platform",
+      "Confirm clinic-size and specialty experience, including multi-location setups",
+      "Compare go-live timelines, costs, and post-launch support"
+    ],
+    "pdfUrl": "/guides/pdf/ehr-consultant-vetting-guide.pdf",
+    "category": "Vetting"
+  },
+  {
+    "slug": "ehr-implementation-checklist",
+    "title": "EHR Implementation Checklist",
+    "subtitle": "Prevent costly vendor missteps and implementation budget overruns",
+    "description": "Walks you through vendor selection, contract terms, data migration, staff training, and go-live execution. Designed for medical groups and clinic administrators implementing EHR systems for the first time.",
+    "bullets": [
+      "CPHIMS-backed vendor assessment framework\u2014avoid costly choices",
+      "Contract red flags checklist\u2014protect your clinic",
+      "Data validation steps ensuring patient record accuracy",
+      "Go-live timeline minimizing clinic downtime and disruption"
+    ],
+    "pdfUrl": "/guides/pdf/ehr-implementation-checklist.pdf",
+    "category": "How-To"
+  }
+]

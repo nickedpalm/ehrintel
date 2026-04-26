@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "health-management-associates-omaha",
+    "name": "Health Management Associates",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "Not provided in search results",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "Not provided in search results",
+    "website": "https://www.healthmanagement.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare consulting firm with offices throughout Nebraska specializing in publicly funded healthcare",
+    "certifications": [],
+    "services": [
+      "Healthcare consulting",
+      "Public healthcare expertise"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:42",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "Healthcare consulting",
+        "Public healthcare expertise"
+      ],
+      "highlights": [
+        {
+          "text": "N",
+          "sentiment": "positive"
+        },
+        {
+          "text": "o",
+          "sentiment": "positive"
+        },
+        {
+          "text": "t",
+          "sentiment": "positive"
+        },
+        {
+          "text": " ",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Healthcare consulting firm with offices throughout Nebraska specializing in publicly funded healthcare"
+    }
+  },
+  {
+    "slug": "imagnum-healthcare-omaha",
+    "name": "Imagnum Healthcare",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "Not provided in search results",
+    "lat": 41.2565,
+    "lng": -95.9345,
+    "phone": "Not provided in search results",
+    "website": "https://www.imagnumhealthcare.com",
+    "email": "info@imagnumhealthcare.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Professional EHR support services offering tailored solutions to streamline health record systems",
+    "certifications": [],
+    "services": [
+      "EHR support",
+      "Health record system optimization"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:05:42",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.75,
+      "keywords": [
+        "EHR support",
+        "Health record system optimization"
+      ],
+      "highlights": [
+        {
+          "text": "N",
+          "sentiment": "positive"
+        },
+        {
+          "text": "o",
+          "sentiment": "positive"
+        },
+        {
+          "text": "t",
+          "sentiment": "positive"
+        },
+        {
+          "text": " ",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Professional EHR support services offering tailored solutions to streamline health record systems"
+    }
+  }
+]

@@ -1,0 +1,184 @@
+{
+  "name": "EHR Consultants",
+  "brandName": "EHRIntel",
+  "slug": "ehrintel",
+  "domain": "ehrintel.com",
+  "siteUrl": "https://ehrintel.com",
+  "tagline": "Credentialed EHR consultants, independently rated.",
+  "description": "The most comprehensive directory of CPHIMS- and CHDA-credentialed EHR consultants, implementation specialists, and health IT advisors serving medical practices and clinics across the United States.",
+  "jobValue": "$5,000-50,000 per engagement",
+  "industry": "tech",
+  "primaryKeyword": "EHR consultant",
+  "secondaryKeywords": [
+    "EHR implementation specialist",
+    "electronic health records consultant",
+    "EMR consultant",
+    "health IT consultant",
+    "EHR optimization consultant",
+    "HIPAA workflow consultant"
+  ],
+  "certifications": [
+    "CPHIMS (Certified Professional in Health Informatics and Information Management)",
+    "CHDA (Certified Health Data Analyst \u2014 AHIMA)",
+    "RHIA (Registered Health Information Administrator)",
+    "RHIT (Registered Health Information Technician)",
+    "CAHIMS (Certified Associate in Health Informatics and Information Management)",
+    "Epic Certified Implementation Consultant"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "EHR consultants help medical practices and clinics select, implement, and optimize electronic health record systems.\nCredentialed professionals (CPHIMS, CHDA, RHIA) guide practices through vendor selection, workflow redesign, data migration, staff training, and post-go-live optimization. Medical groups hire them when adopting a new EHR, switching from a legacy platform, or struggling with billing and documentation inefficiencies. Consultants assess practice needs, negotiate with vendors, oversee implementation timelines, and ensure the system supports MIPS, interoperability, and HIPAA compliance requirements.\n",
+  "contactEmail": "contact@ehrintel.com",
+  "buyerPersona": "medical groups and clinics",
+  "servicePhrase": "EHR consulting",
+  "primaryCredential": "CPHIMS",
+  "buyerSearchContext": "when selecting or switching EHR platforms, preparing for MIPS/MACRA reporting, or optimizing clinical workflows after a go-live",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help medical groups find credentialed EHR consultants without wading through vendors who mostly want to sell software subscriptions \u2014 a conflict of interest he ran into when trying to help a family member\u2019s practice navigate a painful EMR migration.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/28E14m6j85dugxS0fTa3u3E",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/28E14mgXM6hydlG2o1a3u3F",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/cNiaEWgXMbBS0yU6Eha3u3G",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/7sYfZgazo8pG1CY2o1a3u3H",
+  "stripeFeaturedProductId": "prod_UFN133BXWPcfKa",
+  "stripeCityProProductId": "prod_UFN1Ons3dgeXVd",
+  "stripeFeaturedMonthlyPriceId": "price_1TQZ45CIgRyRDQ2P9vF8oI2P",
+  "stripeFeaturedAnnualPriceId": "price_1TQZ46CIgRyRDQ2PUmk4QL49",
+  "stripeCityProMonthlyPriceId": "price_1TQZ48CIgRyRDQ2P8pqlizeY",
+  "stripeCityProAnnualPriceId": "price_1TQZ49CIgRyRDQ2PDuylEpI2",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "59",
+  "listmonkTplMagicLink": "50",
+  "listmonkTplLeadNotify": "51",
+  "listmonkTplGuideDelivery": "52",
+  "ga4MeasurementId": "G-NJP21N2H3W",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-NJP21N2H3W",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "vendor_certifications",
+        "type": "multi_enum",
+        "label": "EHR Platform Certifications",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Epic Certified",
+          "Cerner Certified",
+          "athenahealth Certified",
+          "eClinicalWorks Certified",
+          "NextGen Certified",
+          "Meditech Certified"
+        ],
+        "scrape_hint": "Scan certifications section, team bios, or vendor badge logos for Epic, Cerner, athenahealth, eClinicalWorks, NextGen, or Meditech credentials; match exact platform names and certification tiers."
+      },
+      {
+        "key": "years_experience",
+        "type": "number",
+        "label": "Years of Experience",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'About Us', team bios, or '15+ years in health IT' statements; calculate from founding year if business start date is provided."
+      },
+      {
+        "key": "certifications",
+        "type": "multi_enum",
+        "label": "Professional Certifications",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "CPHIMS",
+          "CHDA",
+          "RHIA",
+          "RHIT",
+          "CAHIMS",
+          "PMP"
+        ],
+        "scrape_hint": "Scan credentials sections, team pages, or digital badges for HIMSS, AHIMA, and PMI certifications; match exact acronyms and full credential names."
+      },
+      {
+        "key": "vendor_agnostic",
+        "type": "boolean",
+        "label": "Vendor-Agnostic (No Software Ties)",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for statements like 'we are not affiliated with any EHR vendor', 'independent consulting', 'unbiased platform selection', or absence of reseller or referral arrangements in services or about pages."
+      },
+      {
+        "key": "practice_types_served",
+        "type": "multi_enum",
+        "label": "Practice Types Served",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Primary Care",
+          "Specialty Practice",
+          "Multi-Specialty Group",
+          "Behavioral Health",
+          "Community Health Center",
+          "Hospital / Health System"
+        ],
+        "scrape_hint": "Parse services menu, case studies, or 'Who We Serve' sections; match keywords like 'primary care EHR', 'specialty clinic', 'behavioral health EMR', or 'FQHC implementation'."
+      },
+      {
+        "key": "service_types",
+        "type": "multi_enum",
+        "label": "Service Types Offered",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "New Implementation",
+          "Platform Migration",
+          "Workflow Optimization",
+          "Staff Training",
+          "Go-Live Support",
+          "Interoperability & HL7"
+        ],
+        "scrape_hint": "Extract from services pages, homepage offerings, or package descriptions; match phrases like 'EHR go-live', 'data migration', 'HL7/FHIR integration', 'workflow redesign', or 'superuser training'."
+      },
+      {
+        "key": "engagement_timeline",
+        "type": "enum",
+        "label": "Typical Engagement Length",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Under 1 Month",
+          "1-3 Months",
+          "3-6 Months",
+          "6-12 Months",
+          "Ongoing Retainer"
+        ],
+        "scrape_hint": "Extract from 'How It Works', FAQ, or project overview pages; look for phrases like 'implementation completed in 90 days', '6-month go-live timeline', or 'ongoing support retainer'."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

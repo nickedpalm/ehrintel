@@ -1,0 +1,151 @@
+[
+  {
+    "slug": "hi-bridge-solutions-atlanta",
+    "name": "HI-BRIDGE Solutions",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "877-658-1990",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Assists healthcare professionals and small/rural hospitals in Georgia with EHR selection, implementation, and meaningful use to improve clinical outcomes.",
+    "certifications": [],
+    "services": [
+      "EHR selection",
+      "Implementation",
+      "Meaningful use support"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:01",
+    "sentiment": null
+  },
+  {
+    "slug": "tier3md-atlanta",
+    "name": "Tier3MD",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "855-698-4373",
+    "website": "https://www.tier3md.com",
+    "email": "%20Support@Tier3MD.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Offers EHR consulting services in Atlanta to optimize practices, streamline workflows, improve patient care, and ensure HIPAA compliance.",
+    "certifications": [],
+    "services": [
+      "EHR consulting",
+      "Workflow optimization",
+      "HIPAA compliance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:01",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "responsive",
+        "knowledgeable",
+        "reliable",
+        "professional",
+        "proactive",
+        "trustworthy"
+      ],
+      "highlights": [
+        {
+          "text": "Life-savers especially when we need them most in our hectic medical practice!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "We have been working with Tier3MD for close to 20 years. That should say everything.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Their responsiveness is the quickest of any IT service provider I have ever encountered.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They are proactive rather than reactive, which gives us peace of mind.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Tier3MD enjoys overwhelmingly positive reputation with consistently praised responsiveness, knowledge, reliability, and patient customer service across medical practices of all sizes."
+    }
+  },
+  {
+    "slug": "velocity-technology-partners-atlanta",
+    "name": "Velocity Technology Partners",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "",
+    "lat": 33.749,
+    "lng": -84.388,
+    "phone": "(800) 983-5765",
+    "website": "https://www.vtechpartners.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides EMR/EHR medical IT solutions for small and midsized healthcare practices in Georgia to streamline patient information and improve efficiency.",
+    "certifications": [],
+    "services": [
+      "EMR/EHR implementation",
+      "IT support for healthcare",
+      "Patient data streamlining"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:03:01",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "reliable",
+        "partnership",
+        "expertise",
+        "attention to detail",
+        "hands-on support",
+        "responsive"
+      ],
+      "highlights": [
+        {
+          "text": "You and Velocity Technology Partners have exceeded my expectations. We are a team - a family.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I highly recommend Velocity Technology Partners to any other business in need of technical assistance.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Attended to every detail with minimum disruptions...results are outstanding and far beyond what I thought was possible.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Velocity Technology Partners has exceptional customer satisfaction with consistently praised responsiveness, technical expertise, and ability to build strong client partnerships that exceed expectations."
+    }
+  }
+]

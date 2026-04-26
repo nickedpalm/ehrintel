@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "ensoftek-drcloudehr-seattle",
+    "name": "EnSoftek (DrCloudEHR)",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "1768025959",
+    "website": "https://www.drcloudehr.com",
+    "email": "clinic@qodeinteractive.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides comprehensive EHR solutions and services for behavioral health and mental health practices in Washington.",
+    "certifications": [],
+    "services": [
+      "EHR for mental health",
+      "behavioral health solutions",
+      "practice management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:04:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.92,
+      "keywords": [
+        "flexible",
+        "cost-effective",
+        "robust features",
+        "partnership",
+        "passionate team",
+        "efficient growth"
+      ],
+      "highlights": [
+        {
+          "text": "thrilled with our partnership with DrCloudEHR and is excited to continue collaborating",
+          "sentiment": "positive"
+        },
+        {
+          "text": "flexible, cost-effective and robust system features",
+          "sentiment": "positive"
+        },
+        {
+          "text": "DrCloudEHR team is passionate about and invested in the growth of their product",
+          "sentiment": "positive"
+        },
+        {
+          "text": "support seamless growth as we take on new challenges",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Overwhelmingly positive testimonials from healthcare organizations praising DrCloudEHR's flexibility, cost-effectiveness, robust features, and deeply invested partnership approach."
+    }
+  },
+  {
+    "slug": "hpg-resources-seattle",
+    "name": "HPG Resources",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "",
+    "website": "https://www.hpgresources.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Specializes in EHR consulting for Oracle Cerner, Epic, and MEDITECH, including application optimization and project management.",
+    "certifications": [],
+    "services": [
+      "Cerner consulting",
+      "Epic consulting",
+      "MEDITECH optimization"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:04:15",
+    "sentiment": null
+  },
+  {
+    "slug": "huron-consulting-group-seattle",
+    "name": "Huron Consulting Group",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "6391281721",
+    "website": "https://www.huronconsultinggroup.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Provides Epic EHR consulting, data management, and optimization services for healthcare organizations.",
+    "certifications": [],
+    "services": [
+      "Epic EHR consulting",
+      "data management",
+      "healthcare transformation"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:04:15",
+    "sentiment": null
+  },
+  {
+    "slug": "tegria-seattle",
+    "name": "Tegria",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "phone": "1776935975",
+    "website": "https://www.tegria.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Global healthcare consulting and services company partnering with provider organizations in Washington for EHR and technology solutions.",
+    "certifications": [],
+    "services": [
+      "healthcare consulting",
+      "EHR implementation",
+      "technology services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:04:15",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [
+        "expertise",
+        "partnership",
+        "exceeded expectations",
+        "on-time delivery",
+        "collaborative",
+        "reliable"
+      ],
+      "highlights": [
+        {
+          "text": "exceeded expectations\u2014completed on-time and within budget",
+          "sentiment": "positive"
+        },
+        {
+          "text": "their collaborative approach and deep understanding of MEDITECH's capabilities",
+          "sentiment": "positive"
+        },
+        {
+          "text": "brings expertise in many specific areas...expand our capacity",
+          "sentiment": "positive"
+        },
+        {
+          "text": "exceeded expectations in modernizing our data platform...completed ahead of schedule",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Tegria is consistently praised as an expert, collaborative partner delivering complex healthcare IT projects reliably on-time, on-budget, and exceeding client expectations."
+    }
+  }
+]

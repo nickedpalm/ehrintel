@@ -1,0 +1,280 @@
+[
+  {
+    "slug": "adeptcore-inc-chicago",
+    "name": "Adeptcore, Inc.",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Not provided",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "(847) 595-0343",
+    "website": "https://adeptcore.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Enterprise-level EMR/EHR technology solutions and support for small and midsized healthcare practices, specializing in streamlining patient sensitive information management",
+    "certifications": [],
+    "services": [
+      "EMR/EHR solutions",
+      "IT support",
+      "healthcare practice technology"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:37",
+    "sentiment": null
+  },
+  {
+    "slug": "drcloudehr-chicago",
+    "name": "DrCloudEHR",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Not provided",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "Not provided",
+    "website": "https://www.drcloudehr.com",
+    "email": "clinic@qodeinteractive.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Comprehensive EHR solution designed for Illinois-based health clinics, covering patient intake, scheduling, and clinical functions",
+    "certifications": [],
+    "services": [
+      "EHR solutions",
+      "patient intake",
+      "scheduling",
+      "clinical management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:37",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.92,
+      "keywords": [
+        "flexibility",
+        "cost-effective",
+        "robust system features",
+        "thrilled",
+        "passionate",
+        "seamless growth"
+      ],
+      "highlights": [
+        {
+          "text": "thrilled with our partnership with DrCloudEHR and excited to continue collaborating",
+          "sentiment": "positive"
+        },
+        {
+          "text": "passionate about and invested in the growth of their product and their partners",
+          "sentiment": "positive"
+        },
+        {
+          "text": "flexibility, cost-effectiveness and robust system features",
+          "sentiment": "positive"
+        },
+        {
+          "text": "support seamless growth as we take on new challenges",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "DrCloudEHR receives uniformly positive endorsements from multiple healthcare organizations highlighting flexibility, cost-effectiveness, robust features, and the vendor's genuine commitment to partner success."
+    }
+  },
+  {
+    "slug": "impact-advisors-chicago",
+    "name": "Impact Advisors",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Not provided",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "Not provided",
+    "website": "https://www.impact-advisors.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "KLAS-leading full-service EHR consulting partner with over 100 successful EHR implementations across health systems, hospitals, ambulatory clinics, and physician groups",
+    "certifications": [],
+    "services": [
+      "EHR implementation",
+      "EHR support",
+      "healthcare consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:37",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "trusted partner",
+        "collaborative",
+        "skilled",
+        "experienced",
+        "effective",
+        "listening"
+      ],
+      "highlights": [
+        {
+          "text": "We view Impact Advisors as a trusted partner, not a service provider.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Impact Advisors listened and took the time to ensure they fully understood our unique issues.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Impact Advisors has done fantastic work and has been instrumental in making improvements.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They are the first people we usually reach out to with questions.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Impact Advisors has earned exceptionally strong client trust through collaborative partnerships, deep expertise, and consistent delivery of high-value results across multiple business domains."
+    }
+  },
+  {
+    "slug": "intersog-chicago",
+    "name": "Intersog",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Not provided",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "Not provided",
+    "website": "https://intersog.com",
+    "email": "contact@intersog.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Multinational EHR software development company offering custom eHealth solutions and EHR software development consulting for digital transformation",
+    "certifications": [],
+    "services": [
+      "EHR software development",
+      "custom eHealth solutions",
+      "digital transformation consulting"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:37",
+    "sentiment": null
+  },
+  {
+    "slug": "leonardo-company-chicago",
+    "name": "Leonardo & Company",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Not provided",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "Not provided",
+    "website": "https://www.leonardoandcompany.com",
+    "email": "support@leonardoandcompany.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare IT solutions provider guiding practices through EMR/EHR conversion, utilization, and modern technology implementation",
+    "certifications": [],
+    "services": [
+      "EMR/EHR solutions",
+      "healthcare technology consulting",
+      "practice conversion"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:37",
+    "sentiment": null
+  },
+  {
+    "slug": "pathstone-partners-chicago",
+    "name": "Pathstone Partners",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Not provided",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "Not provided",
+    "website": "https://pathstonepartners.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare technology consultants providing comprehensive lifecycle approach to EHR systems for cost-effective and efficient IT solutions",
+    "certifications": [],
+    "services": [
+      "EHR consulting",
+      "healthcare IT",
+      "technology lifecycle management"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:37",
+    "sentiment": null
+  },
+  {
+    "slug": "truenorth-itg-chicago",
+    "name": "TrueNorth ITG",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "Not provided",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "phone": "Not provided",
+    "website": "https://www.truenorthitg.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Healthcare IT consulting services designed to enhance efficiency and optimize performance for healthcare providers",
+    "certifications": [],
+    "services": [
+      "healthcare IT consulting",
+      "EHR optimization",
+      "provider performance enhancement"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 16:02:37",
+    "sentiment": null
+  }
+]
